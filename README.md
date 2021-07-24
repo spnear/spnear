@@ -19,6 +19,11 @@ I'm a Electronic Engineering student, actually finishing my degree final project
 - Micropython (WIP)
 - Tableau/PowerBI
 
+### Not true skills, but I have some knowledge:
+- C++
+- Java (Android Studio)
+
+
 
 <!---
 spnear/spnear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
