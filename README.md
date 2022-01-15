@@ -2,7 +2,7 @@
 
 Welcome to my repository! 
 
-I'm a Electronic Engineering student, currently finishing my degree final project and I'm learning about data science with 🐍.
+I'm a Electronic Engineering student & Data Science Analyst, currently finishing my degree final project I'm usually working with 🐍.
 
 - I have some repositories with basic operations with data, python, some dummy datasets that I used to learn, and others specials like CV or Flask
 
@@ -14,6 +14,11 @@ I'm a Electronic Engineering student, currently finishing my degree final projec
 - Python
 - SQL
 - R
+
+#### Backend:
+- TypeScript (express)
+- Python (FastAPI)
+
 #### Others
 - Arduino
 - Micropython (WIP)
