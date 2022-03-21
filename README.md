@@ -39,10 +39,12 @@ I'm a Electronic Engineering student & Data Science Analyst, currently finishing
 - Java (Android Studio)
 
 ### More about me:
-Social Networks: [linktr](http://linktr.ee/sebastianpasar)
-Blogs:
 
-Collaboration:
+Social Networks: [linktr](http://linktr.ee/sebastianpasar)
+
+### Blogs:
+
+#### Collaboration:
   - [git init](https://lauralpezb.medium.com/git-init-7cc0c1d4547d)
   - [git remote](https://lauralpezb.medium.com/git-remote-9b90c18cb78e)
 
