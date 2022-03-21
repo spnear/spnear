@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Welcome to my repository! 
+Welcome to my repository!
+![](banner.jpg)
 
 I'm a Electronic Engineering student & Data Science Analyst, currently finishing my degree final project and I'm usually working with 🐍.
 
@@ -19,6 +20,15 @@ I'm a Electronic Engineering student & Data Science Analyst, currently finishing
 - TypeScript (express)
 - Python (FastAPI)
 
+#### RDBMS:
+- Oracle
+- SQL Server
+- Postgresql
+
+#### NoSQL Databases:
+- MongoDB
+- Firebase
+
 #### Others
 - Arduino
 - Micropython (WIP)
@@ -27,6 +37,15 @@ I'm a Electronic Engineering student & Data Science Analyst, currently finishing
 ### Not true skills, but I have some knowledge:
 - C++
 - Java (Android Studio)
+
+### More about me:
+Social Networks: [linktr](http://linktr.ee/sebastianpasar)
+Blogs:
+
+Collaboration:
+  - [git init](https://lauralpezb.medium.com/git-init-7cc0c1d4547d)
+  - [git remote](https://lauralpezb.medium.com/git-remote-9b90c18cb78e)
+
 
 
 
